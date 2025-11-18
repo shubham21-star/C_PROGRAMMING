@@ -8,15 +8,17 @@ This folder contains programs demonstrating **looping constructs** in C — how 
 
 | No. | File Name | Description |
 |-----|------------|--------------|
-| 1️⃣ | **01_For_Loop_use_i++.c** | Demonstrates increment (`i++`) and decrement (`i--`) operations, prints numbers in ascending and descending order, and calculates the sum from 1 to 10. |
-| 2️⃣ | **02_Print_Number_1_to_100.c** | Prints numbers from 1 to 100 using a `for` loop. |
-| 3️⃣ | **03_while_loop_practice.c** | Demonstrates practical use of `while` loops — printing messages, generating tables of 2 and 3, and calculating the sum of the first five numbers. |
-| 4️⃣ | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
-| 5️⃣ | **05_table_of_number.c** | Takes a number as input and prints its multiplication table from 1 to 10 using a `while` loop. |
-| 6️⃣ | **06_sum_of_n_numbers.c** | Takes an integer input `N` and calculates the sum of the first `N` natural numbers using a `while` loop. Demonstrates accumulation logic with `sum += i`. |
-| 7️⃣ | **07_reverse_number.c** | Takes an integer input and reverses its digits using a `while` loop. Demonstrates modulus (`%`) and integer division (`/`) operations for digit extraction. |
-| 8️⃣ | 08_sum_of_digits_hackerrank.c | Reads an integer and calculates the sum of its digits using a while loop (HackerRank-style solution).
-| 9️⃣ | 09_reverse_counting.c | Prints numbers from 10 down to 1 using a while loop (reverse counter).
+| 🔹 | **01_For_Loop_use_i++.c** | Demonstrates increment (`i++`) and decrement (`i--`) operations, prints numbers in ascending and descending order, and calculates the sum from 1 to 10. |
+| 🔹 | **02_Print_Number_1_to_100.c** | Prints numbers from 1 to 100 using a `for` loop. |
+| 🔹 | **03_while_loop_practice.c** | Demonstrates practical use of `while` loops — printing messages, generating tables of 2 and 3, and calculating the sum of the first five numbers. |
+| 🔹 | **04_print_1_to_10.c** | Prints numbers from 1 to 10 using a `while` loop. Demonstrates simple iteration logic and loop control. |
+| 🔹 | **05_table_of_number.c** | Takes a number as input and prints its multiplication table from 1 to 10 using a `while` loop. |
+| 🔹 | **06_sum_of_n_numbers.c** | Takes an integer input `N` and calculates the sum of the first `N` natural numbers using a `while` loop. Demonstrates accumulation logic with `sum += i`. |
+| 🔹 | **07_reverse_number.c** | Takes an integer input and reverses its digits using a `while` loop. Demonstrates modulus (`%`) and integer division (`/`) operations for digit extraction. |
+| 🔹 | 08_sum_of_digits_hackerrank.c | Reads an integer and calculates the sum of its digits using a while loop (HackerRank-style solution).
+| 🔹 | 09_reverse_counting.c | Prints numbers from 10 down to 1 using a while loop (reverse counter).
+| 🔹 | 10_odd_factorial_reverse.c | Prints all odd numbers from 0–99, computes factorial of 10, and reverses a user-entered number using loop-driven logic.
+| 🔹 | 11_multi_task_operations.c | Takes year and month as input, checks leap year, prints month details, handles special logic for month 12, and displays Diwali vacation data for 2025.
 
 ---
 
