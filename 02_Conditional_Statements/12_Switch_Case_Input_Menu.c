@@ -39,5 +39,5 @@ int main() {
             printf("Invalid operator! Please use +, -, *, or /.\n");
     }
 
-    return 0;
+    return 0; 
 }

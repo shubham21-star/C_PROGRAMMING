@@ -8,7 +8,7 @@ int main() {
     printf("Enter your choice (1-3): ");
     scanf("%d", &choice);
 
-    if(choice == 1) {
+    if(choice == 1) { 
         int num;
         printf("Enter a number: ");
         scanf("%d", &num);

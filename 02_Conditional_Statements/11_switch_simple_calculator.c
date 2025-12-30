@@ -21,5 +21,5 @@ int main() {
         default: printf("Invalid operator!\n"); break;
     }
 
-    return 0;
+    return 0; 
 }

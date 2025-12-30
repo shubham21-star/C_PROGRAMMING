@@ -5,7 +5,7 @@ int main() {
     float amount, total;
 
     printf("\n============================================\n");
-    printf("            ELECTRICITY BILL SYSTEM           \n");
+    printf("           ELECTRICITY BILL SYSTEM           \n");
     printf("============================================\n");
 
     printf("Enter the number of units consumed: ");

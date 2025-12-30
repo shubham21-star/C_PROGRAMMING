@@ -51,7 +51,7 @@ int main() {
         }
 
         if (password !=123) 
-            {
+            { 
                 printf("Incorrect Password! Login Failed.\n");
             }
         if (user_id != 'A') 

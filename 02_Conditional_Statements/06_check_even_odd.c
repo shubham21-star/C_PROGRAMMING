@@ -10,6 +10,6 @@ int main() {
     else {
         printf("The number is odd.\n");
     }
-
+ 
     return 0;
 }

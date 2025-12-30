@@ -4,6 +4,7 @@
 int main() {
     // divisibility check 5 & 11
     int num;
+    printf("Divisibility check 5 & 11\n");
     printf("Enter a number: ");
     scanf("%d", &num);
     if (num % 5 == 0 && num % 11 == 0) {
@@ -12,6 +13,7 @@ int main() {
         printf("%d is not divisible by both 5 and 11.\n", num);
     }
     // divisibility check 3 & 7
+    printf("Divisibility check 3 & 7\n");
     printf("Enter another number: ");
     scanf("%d", &num);
     if (num % 3 == 0 && num % 7 == 0) {
@@ -22,6 +24,7 @@ int main() {
 
     // leap year check
     int year;
+    printf("Leap year check\n");
     printf("Enter a year: ");
     scanf("%d", &year);
     if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
@@ -31,6 +34,7 @@ int main() {
     }
     // vowel or consonant check
     char ch;
+    printf("Vowel or consonant check\n");
     printf("Enter an alphabet: ");
     scanf(" %c", &ch);
     if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
@@ -41,6 +45,7 @@ int main() {
     }
     // positive, negative or zero check
     int number;
+    printf("positive, negative or zero check\n");
     printf("Enter a number: ");
     scanf("%d", &number);
     if (number > 0) {
