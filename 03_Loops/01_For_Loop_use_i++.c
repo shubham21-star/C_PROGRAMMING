@@ -1,6 +1,6 @@
 // LOOPS
 
-#include <stdio.h>
+#include <stdio.h> 
 int main () 
 {
     // use of i++ operator
