@@ -30,7 +30,7 @@ int main() {
             break;
         default:
             printf("Invalid input! Please enter a number between 1 and 7.\n");
-            break; 
+            // break; 
     }
 
     return 0;
