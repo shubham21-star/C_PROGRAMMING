@@ -14,7 +14,7 @@ int main()
     // Calculate factorial of 10
     int fact = 1;
     i = 10;
-    while (i > 0)
+    while (i > 0) 
     {
         fact = fact * i;
         i--;

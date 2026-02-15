@@ -14,7 +14,7 @@ int main() {
     if(temp==rev){
         printf("the number %d is pallindrom, %d",temp,rev);
     }else{
-        printf("the number is not pallindrom")
+        printf("the number is not pallindrom");
     }
     return 0;
 }
