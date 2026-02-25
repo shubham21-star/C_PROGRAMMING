@@ -51,6 +51,7 @@ int main() {
                     int withdrawAmount;
                     printf("\nEnter amount to withdraw: ");
                     scanf("%d", &withdrawAmount);
+                    balance = balance - withdrawAmount;
                     printf("\nAmount withdraw successfully!\n");
                 }
                 break;
