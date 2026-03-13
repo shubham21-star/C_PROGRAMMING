@@ -1,7 +1,6 @@
 // 03_Even_or_Odd.c
 
 #include <stdio.h>
-
 int main() {
     int n;
 

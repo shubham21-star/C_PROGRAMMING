@@ -1,8 +1,6 @@
-
 // 02_Add_Two_Numbers.c
 
 #include <stdio.h>
-
 int main() {
     int a, b, sum;
 
