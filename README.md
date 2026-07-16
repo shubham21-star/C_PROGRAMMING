@@ -1,108 +1,86 @@
-<!-- 🌟 C Programming Repository by Shubham Kumar -->
+# C Programming
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Welcome+to+C+Programming+Repository!;Learn+Coding+from+Basics+to+Advanced;Created+by+Shubham+Kumar+💻" alt="Typing SVG" />
-</h1>
+A structured collection of C programming examples, practice problems, and mini projects covering concepts from basic syntax to file handling.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-GitHub-black?style=for-the-badge&logo=github" />
-</p>
+## Tech Stack
 
----    
-
-## 🧭 About Repository  
-
-This repository is a **complete C programming roadmap**, covering everything from **basic syntax** to **advanced topics** and **mini-projects**.  
-Each topic is neatly organized into subfolders, making it **beginner-friendly and professional**.  
-💡 *Perfect for students, beginners, and anyone revising C programming concepts.*
+- Language: C
+- Compiler: GCC
+- IDE: Visual Studio Code
+- Version Control: Git & GitHub
 
 ---
 
-## 📂 Folder Structure
+## Repository Structure
 
-| Folder | Description | Open Link |
-|--------|--------------|-----------|
-| **01 - Basics** | Core C concepts — input/output, variables, data types, and operators. | [Open](./01_Basics) |
-| **02 - Conditional Statements** | If-else, switch-case, and other decision-making constructs. | [Open](./02_Conditional_Statements) |
-| **03 - Loops** | For, while, and do-while loops with practical examples and pattern logic. | [Open](./03_Loops) |
-| **04 - Functions** | Function design, recursion, and parameter handling for modular programming. | [Open](./04_Functions) |
-| **05 - Arrays** | Implementation of 1D & 2D arrays, traversal, manipulation, and summation. | [Open](./05_Arrays) |
-| **06 - Strings** | String operations, comparison, concatenation, and standard library functions. | [Open](./06_Strings) |
-| **07 - Pointers** | Pointer basics, arithmetic, memory referencing, and dynamic allocation. | [Open](./07_Pointers) |
-| **08 - Structures & Unions** | Structured data management and real-world implementation examples. | [Open](./08_Structures_&_Unions) |
-| **09 - File Handling** | File input/output operations, reading, writing, and data persistence. | [Open](./09_File_Handling) |
-| **10 - Mini Projects** | Practical mini projects integrating multiple core C programming concepts. | [Open](./10_Mini_Projects) |
-
----
-
-## 🧠 Concepts Covered  
-
-- ✅ Input / Output (`printf`, `scanf`)  
-- ✅ Variables, Constants, Data Types  
-- ✅ Operators & Expressions  
-- ✅ Conditional Statements  
-- ✅ Loops and Patterns  
-- ✅ Functions & Recursion  
-- ✅ Arrays & Strings  
-- ✅ Pointers  
-- ✅ Structures / Unions  
-- ✅ File Handling  
-- ✅ Mini Projects  
+| Folder | Description |
+|---------|-------------|
+| `01_Basics` | Variables, data types, operators, input/output |
+| `02_Conditional_Statements` | if, if-else, switch |
+| `03_Loops` | for, while, do-while |
+| `04_Functions` | Functions and recursion |
+| `05_Arrays` | 1D and 2D arrays |
+| `06_Strings` | String operations |
+| `07_Pointers` | Pointer fundamentals |
+| `08_Structures_&_Unions` | Structures and unions |
+| `09_File_Handling` | Reading and writing files |
+| `10_Mini_Projects` | Practical C projects |
 
 ---
 
-## ⚙️ How to Run  
+## Topics Covered
 
-You can compile and run any C file using **GCC**:
+- Input / Output
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Recursion
+- Arrays
+- Strings
+- Pointers
+- Structures & Unions
+- File Handling
+- Mini Projects
+
+---
+
+## Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/shubham21-star/C-Programming.git
+```
+
+Compile
 
 ```bash
 gcc filename.c -o output
+```
+
+Run
+
+```bash
 ./output
 ```
 
-## 💻 Tools Used  
+---
 
-| Tool | Purpose |
-|------|----------|
-| 🧠 **VS Code** | For writing & debugging code |
-| 🖥️ **GCC Compiler** | To compile C programs |
-| 🐙 **Git & GitHub** | For version control and collaboration |
-| 📘 **Markdown** | For creating README documentation |
+## Repository Goals
+
+- Learn C programming fundamentals
+- Practice problem solving
+- Build strong programming logic
+- Create a reference for revision
 
 ---
 
-## 🔰 Tips for Beginners  
+## Author
 
-- ✨ Start with simple programs and focus on understanding logic  
-- ⚙️ Practice writing `if`, `for`, `while` manually (no copy-paste)  
-- 🔄 Always dry-run your loops and conditions on paper  
-- 🧩 Write comments to understand your code better  
+**Shubham Kumar**
 
----
-
-## 👨‍💻 Author  
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/shubham21-star" width="120" style="border-radius:50%;" alt="Shubham Kumar Avatar"/>
-</p>
-
-<p align="center">
-  <b>Shubham Kumar</b><br>
-  💻 B.Tech 1st Year | Aspiring Full Stack Developer<br>
-  📧 <a href="mailto:shubham.asp21@gmail.com">shubham.asp21@gmail.com</a><br>
-  🌐 <a href="https://github.com/shubham21-star" target="_blank">GitHub Profile</a>
-</p>
-
----
-
-## ✨ Quote of the Day  
-
-> “Don’t just write code — understand why it works.” 💡  
-
----
-
-<p align="center">⭐ From <b>Shubham Kumar</b> with ❤️</p>
+GitHub: https://github.com/shubham21-star
