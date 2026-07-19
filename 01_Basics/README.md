@@ -1,77 +1,128 @@
-# 🧠 01_Basics — C Programming Fundamentals
+# C Programming Fundamentals
 
-This folder contains beginner-level C programs covering foundational C concepts — from simple input/output to logic building and decision-making.
-
----
-
-## 📂 File Overview
-
-| No. | File Name | Description |
-|-----|------------|-------------|
-| 1️⃣ | **01_Hello_World.c** | Prints the classic “Hello, World!” message — the first step in any C journey. |
-| 2️⃣ | **02_Basic_Arithmetic_Operations.c** | Demonstrates arithmetic operations (addition, subtraction, multiplication, division) using different approaches — user input, direct assignment, and optimized variable use. |
-| 3️⃣ | **03_Area_of_Square_Circle_Rectangle_Triangle.c** | Calculates the area of four shapes (square, circle, rectangle, triangle) using simple mathematical formulas. |
-| 4️⃣ | **04_Bank_Account_Deposit_Withdraw.c** | Simulates a basic banking system that captures user info, allows deposits, withdrawals, and displays balance updates. |
-| 5️⃣ | **05_Number_Swap_Equality_Greater_Smaller.c** | Covers number swapping (with & without temp variable), equality checks, and determining greatest/smallest among given numbers. |
-| 6️⃣ | **06_Student_Marksheet.c** | Generates a student marksheet by taking subject marks as input, then calculating total, percentage, and grade based on performance. |
+A curated collection of beginner-friendly C programs designed to build a strong foundation in programming concepts, logical thinking, and problem-solving. This module covers essential C programming topics including input/output, arithmetic operations, conditional statements, and basic real-world applications.
 
 ---
 
-## 🧩 Concepts Covered
-- Input & Output in C (`scanf`, `printf`)
-- Variable declaration and data types
-- Arithmetic operations and operator precedence
-- Conditional statements (`if`, `else if`, `else`)
-- Sequential logic and simple branching
-- Basic problem-solving using functions of `main()`
+## Project Overview
+
+This directory contains practical C programs that introduce core programming concepts through hands-on implementation. Each program focuses on a specific concept while encouraging structured problem-solving and clean coding practices.
 
 ---
 
-## 🖥️ How to Run
+## Programs Included
 
-To compile and run any program:
+| No. | Program | Objective |
+|:---:|---------|-----------|
+| 01 | Hello World | Introduction to C syntax, program structure, and console output. |
+| 02 | Basic Arithmetic Operations | Perform arithmetic calculations using user input, predefined values, and optimized variables. |
+| 03 | Area Calculator | Calculate the area of Square, Circle, Rectangle, and Triangle using mathematical formulas. |
+| 04 | Bank Account Simulation | Simulate basic banking operations including deposits, withdrawals, and balance updates. |
+| 05 | Number Operations | Demonstrates swapping techniques, equality comparison, and finding the largest/smallest number. |
+| 06 | Student Marksheet System | Calculates total marks, percentage, and grade based on student performance. |
+
+---
+
+## Skills Demonstrated
+
+- C Programming Fundamentals
+- Console-based Application Development
+- Input and Output (`scanf`, `printf`)
+- Variables and Data Types
+- Arithmetic and Relational Operators
+- Conditional Statements (`if`, `else if`, `else`)
+- Logical Problem Solving
+- Mathematical Computations
+- Basic Program Design
+
+---
+
+## Learning Outcomes
+
+By completing these programs, I strengthened my understanding of:
+
+- Program execution flow
+- Writing structured C programs
+- User input handling
+- Decision-making logic
+- Mathematical computations
+- Building simple real-world console applications
+- Developing problem-solving skills
+
+---
+
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| C Programming | Core programming language |
+| GCC Compiler | Compilation and execution |
+| Visual Studio Code | Development environment |
+| Git | Version control |
+| GitHub | Project hosting and collaboration |
+| Markdown | Documentation |
+
+---
+
+## Project Structure
+
+```
+01_Basics/
+├── 01_Hello_World.c
+├── 02_Basic_Arithmetic_Operations.c
+├── 03_Area_of_Square_Circle_Rectangle_Triangle.c
+├── 04_Bank_Account_Deposit_Withdraw.c
+├── 05_Number_Swap_Equality_Greater_Smaller.c
+├── 06_Student_Marksheet.c
+└── README.md
+```
+
+---
+
+## Getting Started
+
+### Compile
 
 ```bash
 gcc filename.c -o output
+```
+
+### Run
+
+```bash
 ./output
 ```
 
-## 💻 Tools Used
+---
 
-| Tool | Purpose |
-|------|----------|
-| 🧠 **VS Code** | Code editor for writing & debugging C programs |
-| 🖥️ **GCC Compiler** | Compiles and executes C code |
-| 🐙 **Git & GitHub** | Version control and repository management |
-| 📘 **Markdown** | For structured README documentation |
+## Key Takeaways
+
+- Built a strong foundation in C programming.
+- Improved logical thinking through hands-on coding.
+- Applied programming concepts to simple real-world scenarios.
+- Practiced writing readable and maintainable code.
 
 ---
 
-## 🔰 Tips for Beginners
+## Future Improvements
 
-- ✍️ Type each program manually — repetition builds logic.  
-- ⚙️ Focus on **understanding flow**, not memorizing syntax.  
-- 🔍 Predict program output before running — sharpens analytical thinking.  
-- 🧩 Debug errors yourself before searching online — it builds confidence.  
-- 💡 Once you understand the basics, try combining multiple concepts in one program.
-
----
-
-## 👨‍💻 Author
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/shubham21-star" width="120" style="border-radius:50%;" alt="Shubham Kumar Avatar"/>
-</p>
-
-<p align="center">
-  <b>Shubham Kumar</b><br>
-  💻 B.Tech 1st Year | Aspiring Full Stack Developer<br>
-  📧 <a href="mailto:shubham.asp21@gmail.com">shubham.asp21@gmail.com</a><br>
-  🌐 <a href="https://github.com/shubham21-star" target="_blank">GitHub Profile</a>
-</p>
+- Modularize programs using user-defined functions.
+- Improve input validation.
+- Enhance code reusability.
+- Follow industry-standard coding practices.
+- Add comments and documentation for better maintainability.
 
 ---
 
-## ✨ Quote of the Day  
+## About Me
 
-> “Code is like humor — when you have to explain it, it’s bad.” 😄  
+**Shubham Kumar**
+
+B.Tech Student | Aspiring Software Developer
+
+- GitHub: https://github.com/shubham21-star
+- Email: shubham.asp21@gmail.com
+
+---
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
