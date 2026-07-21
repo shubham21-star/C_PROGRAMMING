@@ -1,4 +1,4 @@
-# ⚙️ 02_Conditional_Statements — Decision Making in C
+# ⚙️ 02_Conditional_Statements — Decision Making in C  
 
 This folder contains C programs focused on **decision-making statements** — the backbone of logic building in programming.  
 These programs demonstrate the use of `if`, `else if`, `nested if`, and `switch` constructs for solving real-world problems through condition checks and branching logic.
